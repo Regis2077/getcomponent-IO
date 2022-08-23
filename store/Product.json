@@ -1,0 +1,13 @@
+"custom-product-ladingpage":{
+    "blocks":["list-context.horizontal-card"]
+  },
+  "list-context.horizontal-card":{
+    "children":["list-context-renderer"],
+    "props":{
+      "items":[{
+        "title": "teste",
+        "text": "teste",
+        "image": "https://itatiaia.vteximg.com.br/arquivos/Cozinha.svg"
+      }]
+    }
+  },
